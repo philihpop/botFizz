@@ -162,7 +162,7 @@ StandardOutput=syslog
 StandardError=syslog
 SyslogIdentifier=telegrambot
 Environment=PYTHONUNBUFFERED=1
-Environment=TG_TOKEN=8085357325:AAEdbYqFms2pG-g99wWEWlEicby46RC8bi0
+Environment=TG_TOKEN=YOUR_TOKEN
 Environment=CHECK_INTERVAL=120
 Environment=CHROMEDRIVER_PATH=/usr/local/bin/chromedriver
 
