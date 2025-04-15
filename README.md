@@ -2,7 +2,7 @@
 
 After deployment, reply '\start' to the bot and it would notify you when there are available room(s)/studio(s)/apartment(s) on the website.
 
-# Obatin a Token for the Telegram Bot
+# Obtain a Token for the Telegram Bot
 
 [RTFM](https://core.telegram.org/bots)
 
